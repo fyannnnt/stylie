@@ -1,9 +1,13 @@
 CACHE MANIFEST
+/stylie/32941d6330044744c02493835b799e90.svg
+/stylie/68ed1dac06bf0409c18ae7bc62889170.woff
+/stylie/7867d31daa065fc809baa719ea18320d.png
+/stylie/7ad17c6085dee9a33787bac28fb23d46.eot
+/stylie/e49d52e74b7689a0727def99da31f3eb.ttf
 /stylie/img/arrow_active.png
 /stylie/img/arrow_inactive.png
 /stylie/img/bezier_editing.png
 /stylie/img/bg_grab-shadow.png
-/stylie/img/bg_grid.png
 /stylie/img/bg_header.png
 /stylie/img/block.png
 /stylie/img/bubble.png
@@ -20,11 +24,7 @@ CACHE MANIFEST
 /stylie/img/stylie_logo.png
 /stylie/index.html
 /stylie/main.js
-/stylie/node_modules/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.eot
-/stylie/node_modules/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.svg
-/stylie/node_modules/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf
-/stylie/node_modules/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff
-#8a7ed669cc5029b737f3e7457aef2491
+#756d554a753694083dca979a309cf459
 NETWORK:
 *
 
